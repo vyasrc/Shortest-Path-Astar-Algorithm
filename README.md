@@ -1,6 +1,6 @@
 # Shortest-Path-Astar-Algorithm
 
-Finding the shortest path in a maze using A* search algorithm , both array and GUI implementations. 
+Implemented A* search algorithm in Python Language, to find the shortest path between a given source cell to a destination cell in a maze.
 
 ### Algorithm :- 
 
