@@ -2,7 +2,7 @@
 
 Finding the shortest path in a maze using A* search algorithm , both array and GUI implementations. 
 
-Algorithm :- 
+### Algorithm :- 
 
 * OPEN // the set of nodes to be evaluated.                                                                                              
 * ClOSED // the set of nodes already evaluated.                                                                                          
@@ -22,10 +22,10 @@ Algorithm :-
       * if neighbor is not in OPEN 
         * add neighbor to OPEN
 
-Array Implementation :-
+### Array Implementation :-
 * Python Library used :- Numpy 
 
-GUI Implementation :-
+### GUI Implementation :-
 * Python Libraries used :- Tkinter, Random, Time, Threading
 
 ![final ouput](https://github.com/vyasrc/Shortest-Path-Astar-Algorithm/blob/master/Capture.PNG)
