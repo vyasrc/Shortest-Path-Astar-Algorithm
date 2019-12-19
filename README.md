@@ -5,8 +5,8 @@ Finding the shortest path in a maze using A* search algorithm , both array and G
 Algorithm :- 
 
 OPEN // the set of nodes to be evaluated.                                                                                                   
-ClOSED // the set of nodes already evaluated.
-
-add the start node to OPEN
-
-
+ClOSED // the set of nodes already evaluated.                                                                                               
+add the start node to OPEN                                                                                                                  
+loop                                                                                                                                                  
+ >  current = node in OPEN with the lowest f_cost                                                                                             
+  
