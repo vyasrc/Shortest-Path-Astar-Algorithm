@@ -1,6 +1,6 @@
 # Shortest-Path-Astar-Algorithm
 
-Implemented A* search algorithm to find the shortest path between a given source cell to a destination cell in a maze, both array and GUI implementations.
+Made use of A* search algorithm to find the shortest path between a given source cell to a destination cell in a maze, both array and GUI implementations.
 
 ### Algorithm :- 
 
